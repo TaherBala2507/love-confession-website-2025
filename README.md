@@ -24,7 +24,7 @@
 ## 🛠️ **Installation**  
 1. **Clone the repo**  
    ```bash  
-   git clone https://github.com/Aoudumber-Bade/Love-Confession-Website  
+   git clone https://github.com/TaherBala2507/love-confession-website-2025.git  
    ```  
 2. **just open `index.html` in a browser!**  
 
